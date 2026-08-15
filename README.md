@@ -35,6 +35,10 @@ customers 1 --- * product_reviews * --- 1 products
 | `payments` | Payment amount, method, and date for each order. | 400 |
 | `product_reviews` | Customer ratings and feedback for products. | 50 |
 
+## Entity Relationship Diagram  
+
+![E-Commerce Entity Relationship Diagram](er-diagram.png.png)
+
 ### Relationships
 
 - Each order belongs to a customer.
