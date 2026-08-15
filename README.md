@@ -110,7 +110,6 @@ The query collection answers questions such as:
 
 - The data is sample data intended for SQL practice and portfolio demonstration; it should not be used as production data.
 - The scripts are designed for a new database. Re-running the insertion script without clearing existing rows will cause primary-key or unique-key conflicts.
-- The project does not include a separate drop/reset script. To start over, use a new database or deliberately clear the tables in child-to-parent order.
 
 ## Author
 
